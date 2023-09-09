@@ -250,6 +250,7 @@
 - [Scala](https://github.com/lauris/awesome-scala#readme)
 	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
+- [Sorbet](https://github.com/andyw8/awesome-sorbet)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
